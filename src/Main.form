@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="MiReloj">
+  <grid id="27dc6" binding="pnlGUI" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="102" y="20" width="240" height="69"/>
+    </constraints>
+    <properties>
+      <background color="-13027015"/>
+      <foreground color="-4473925"/>
+    </properties>
+    <border type="line" title-justification="2">
+      <color color="-4473925"/>
+    </border>
+    <children>
+      <grid id="33675" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <background color="-13027015"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="6132f" class="javax.swing.JLabel" binding="lblTiempo">
+            <constraints/>
+            <properties>
+              <foreground color="-4473925"/>
+              <text value="00:00:00 AM"/>
+              <verticalAlignment value="0"/>
+            </properties>
+          </component>
+          <component id="7a783" class="javax.swing.JLabel" binding="lblDia">
+            <constraints/>
+            <properties>
+              <foreground color="-11172677"/>
+              <text value="Lun"/>
+            </properties>
+          </component>
+          <component id="3c4bd" class="javax.swing.JLabel" binding="lblFecha">
+            <constraints/>
+            <properties>
+              <foreground color="-4473925"/>
+              <text value="12/12/2022"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="a26e9" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <background color="-13027015"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="6305e" class="javax.swing.JSlider" binding="sldrDescanso">
+            <constraints/>
+            <properties>
+              <background color="-12828863"/>
+              <maximum value="59"/>
+            </properties>
+          </component>
+          <component id="734fe" class="javax.swing.JLabel" binding="lblDescanso">
+            <constraints/>
+            <properties>
+              <foreground color="-16711936"/>
+              <text value="50"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
