@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PomodoroPC:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="295c2fc1-b74c-41ae-b259-693c3fe63ba2" name="Changes" comment="Fixed GUI">
+    <list default="true" id="295c2fc1-b74c-41ae-b259-693c3fe63ba2" name="Changes" comment="Fixed GUI 2&#10;&#10;Signed-off-by: apaza610 &lt;homar.orozco@gmail.com&gt;">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PomodoroPC_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +36,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "apaza610"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;apaza610&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="f553d55a-213b-497c-a0d5-154b3320406c" />
-        <option name="url" value="https://github.com/apaza610/Pomodoro.git" />
+        <option name="url" value="https://github.com/apaza610/PomodoroPC.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -61,7 +69,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/misapps/pcjava/flatlaf-3.3.jar",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
@@ -83,11 +91,40 @@
       <option name="project" value="LOCAL" />
       <updated>1712187509560</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed GUI 2">
+      <option name="closed" value="true" />
+      <created>1712188582543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712188582543</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed GUI 2&#10;&#10;Signed-off-by: apaza610 &lt;homar.orozco@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1712188608591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712188608591</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed GUI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed GUI" />
+    <MESSAGE value="Fixed GUI 2" />
+    <MESSAGE value="Fixed GUI 2&#10;&#10;Signed-off-by: apaza610 &lt;homar.orozco@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed GUI 2&#10;&#10;Signed-off-by: apaza610 &lt;homar.orozco@gmail.com&gt;" />
   </component>
 </project>

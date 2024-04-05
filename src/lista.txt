@@ -1,3 +1,3 @@
-E:\misapps\pcjava\Reloj1\out\artifacts\Reloj1_jar\src\Blip_select1.wav
-E:\misapps\pcjava\Reloj1\out\artifacts\Reloj1_jar\src\clock-strickes-twelve-o-clock-parte1.wav
-E:\misapps\pcjava\Reloj1\out\artifacts\Reloj1_jar\src\clock-strickes-twelve-o-clock-parte2.wav
+E:\misapps\pcjava\PomodoroPC\out\artifacts\PomodoroPC_jar\src\Blip_select1.wav
+E:\misapps\pcjava\PomodoroPC\out\artifacts\PomodoroPC_jar\src\clock-strickes-twelve-o-clock-parte1.wav
+E:\misapps\pcjava\PomodoroPC\out\artifacts\PomodoroPC_jar\src\clock-strickes-twelve-o-clock-parte2.wav
